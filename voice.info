@@ -4,3 +4,5 @@ language=Luxembourgish
 gender=female
 format=4
 revision=7
+msi_upgrade_code=79b55ad9-839d-476f-83c9-12577cde6132
+exe_upgrade_code=7076e9b5-98d3-44bc-a790-c6658e5ac872
